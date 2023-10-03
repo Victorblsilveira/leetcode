@@ -1,2 +1,2 @@
-# leetcode
+# Leetcode
 Leet code challenges
